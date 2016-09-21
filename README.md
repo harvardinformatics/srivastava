@@ -1,0 +1,2 @@
+# earthquake.rc
+Web pages
