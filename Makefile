@@ -1,6 +1,6 @@
 PY?=python
 PELICAN?=pelican
-PELICANOPTS=--relative-urls -t informatics-theme
+PELICANOPTS=--relative-urls -t theme
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=informatics1.rc.fas.harvard.edu
+SSH_HOST=earthquake.rc.fas.harvard.edu
 SSH_PORT=22
 SSH_USER?=$(USER)
-SSH_TARGET_DIR=/var/www/html
+SSH_TARGET_DIR=/tmp
 
 S3_BUCKET=my_s3_bucket
 
