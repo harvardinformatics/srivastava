@@ -1,5 +1,6 @@
-# Interactive Visualization of GPS Time Series Tracks
-Work by Brendan Meade (Harvard), Bill Freeman (MIT, Google), Jimbo Wilson (Google, all the Javascript), Fernanda Viegas (Google), and Martin Wattenberg (Google)
+Title: Interactive Visualization of GPS Time Series Tracks
+Date: 2016-09-21 00:00
+frontpage: True
 
 ## Step 1
 [Watch it in action](http://earthquake.rc.fas.harvard.edu/TrackViewerAnimation1080p.mov)
