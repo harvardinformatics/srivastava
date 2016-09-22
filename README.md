@@ -3,7 +3,7 @@
 
 ### Install pelican and markdown (python 2.7 required)
 
-    pip install pelican markdown beautifulsoup4 icalendar
+    pip install pelican markdown beautifulsoup4
 
 ### Clone the repository:
 
