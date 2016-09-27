@@ -3,11 +3,13 @@ Date: 2016-09-21 00:00
 frontpage: True
 
 ## Step 1
-[Watch it in action](http://earthquake.rc.fas.harvard.edu/TrackViewerAnimation1080p.mov)
+Watch it in action
+
 <video src="/extra/TrackViewerAnimation1080p.mp4" width="480px" controls></video>
 
 ## Step 2
 [Download application from Google](https://geovelo.googlesource.com/geovelo/+/master)
+
 * Follow instructions to get and install a Google Maps API key
 * Follow instructions to launch application locally
 
