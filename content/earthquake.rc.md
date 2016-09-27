@@ -4,6 +4,7 @@ frontpage: True
 
 ## Step 1
 [Watch it in action](http://earthquake.rc.fas.harvard.edu/TrackViewerAnimation1080p.mov)
+<video src="TrackViewerAnimation1080p.mp4" width="480px" controls></video>
 
 ## Step 2
 [Download application from Google](https://geovelo.googlesource.com/geovelo/+/master)
