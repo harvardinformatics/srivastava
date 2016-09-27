@@ -49,6 +49,6 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
-DIRECT_TEMPLATES = ['search','index','archives','tags']
+DIRECT_TEMPLATES = ['index']
 
 CUTOFF_DATE = datetime(2090, 1, 1, 0, 0, 0, tzinfo=tzlocal())
