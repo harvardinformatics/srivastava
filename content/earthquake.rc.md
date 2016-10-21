@@ -8,7 +8,7 @@ Watch it in action
 <video src="/extra/TrackViewerAnimation1080p.mp4" width="480px" controls></video>
 
 ## Step 2
-[Download application from Google](https://geovelo.googlesource.com/geovelo/+/master)
+[Download application from Github](https://github.com/google/geovelo)
 
 * Follow instructions to get and install a Google Maps API key
 * Follow instructions to launch application locally
