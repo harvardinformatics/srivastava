@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=earthquake.rc.fas.harvard.edu
 SSH_PORT=22
 SSH_USER?=$(USER)
-SSH_TARGET_DIR=/var/www/html
+SSH_TARGET_DIR=/tmp
 
 S3_BUCKET=my_s3_bucket
 

@@ -4,3 +4,4 @@ output/*
 .pydevproject
 .settings*
 *.pyc
+Makefile
