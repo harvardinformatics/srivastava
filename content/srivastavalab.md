@@ -1,11 +1,49 @@
-Title: Srivastava site title
+Title: Hofstenia miamia genome assembly
 Date: 2018-09-12 00:00
 frontpage: True
 
-## Some data
+## Genome data downloads
+<table>
+    <tr>
+        <td>Hofstenia miamia genome assembly</td><td><a href="">hmi_genome.fa</a></td>
+    </tr>
+    <tr>
+        <td>Hofstenia gene annotation</td><td><a href="">hmi_gene_annotation.gff3</a></td>
+    </tr>
+    <tr>
+        <td>Hofstenia transcriptome annotation</td><td><a href="">hmi_rna_annotation.gff3</a></td>
+    </tr>
+    <tr>
+        <td>Hofstenia repeat annotation</td><td><a href="">hmi_repeats.gff</a></td>
+    </tr>
+    <tr>
+        <td>Hofstenia ATAC tail fragment consensus peakset</td><td><a href="">tail_consensus_peakset.bed</a></td>
+    </tr>
+    <tr>
+        <td>0h tail fragment ATAC</td><td><a href="">0h_tail_ATAC.bw</a></td>
+    </tr>
+    <tr>
+        <td>3h tail fragment ATAC</td><td><a href="">3h_tail_ATAC.bw</a></td>
+    </tr>
+    <tr>
+        <td>6h tail fragment ATAC</td><td><a href="">6h_tail_ATAC.bw</a></td>
+    </tr>
+    <tr>
+        <td>6h tail fragment egr RNAi ATAC</td><td><a href="">6h_tail_egr_RNAi_ATAC.bw</a></td>
+    </tr>
+    <tr>
+        <td>12h tail fragment ATAC</td><td><a href="">12h_tail_ATAC.bw </a></td>
+    </tr>
+    <tr>
+        <td>24h tail fragment ATAC</td><td><a href="">24h_tail_ATAC.bw</a></td>
+    </tr>
+    <tr>
+        <td>48h tail fragment ATAC</td><td><a href="">48h_tail_ATAC.bw</a></td>
+    </tr>
+</table>
 
 
 ## JBrowse
-[Download application from Github](https://github.com/google/geovelo)
+[Use JBrowse to view scaffold alignments](/jbrowse/index.html?data=json/hmi)
 
 

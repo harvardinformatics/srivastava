@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-import os
 from datetime import datetime
 from dateutil.tz import tzlocal
 
@@ -9,7 +8,7 @@ PLUGIN_PATHS = []
 PLUGINS = []
 
 AUTHOR = u'Andrew Gehrke'
-SITENAME = u'srivastavalab'
+SITENAME = u'Srivastava Lab Hofstenia miamia data'
 SITEURL = 'http://srivastavalab.rc.fas.harvard.edu'
 BANNER = True
 BANNER_ALL_PAGES = False
@@ -44,7 +43,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-STATIC_PATHS = ['images','extra']
+STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
@@ -52,3 +51,5 @@ EXTRA_PATH_METADATA = {
 DIRECT_TEMPLATES = ['index']
 
 CUTOFF_DATE = datetime(2090, 1, 1, 0, 0, 0, tzinfo=tzlocal())
+
+LINKS = ('/extra/harvard.png', 'Srivastava Lab', 'http://www.srivastavalab.org/')
