@@ -5,7 +5,7 @@ frontpage: True
 ## Genome data downloads
 <table>
     <tr>
-        <td>Hofstenia miamia genome assembly</td><td><a href="genome_files/hm1_genome.fa">hmi_genome.fa</a></td>
+        <td>Hofstenia miamia genome assembly</td><td><a href="genome_files/hmi_genome.fa">hmi_genome.fa</a></td>
     </tr>
     <tr>
         <td>Hofstenia gene annotation</td><td><a href="genome_files/hmi_gene_annotation.gff3">hmi_gene_annotation.gff3</a></td>
