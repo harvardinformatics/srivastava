@@ -7,11 +7,11 @@
 
 ### Clone the repository:
 
-    git clone git@github.com:brendanjmeade/earthquake.rc.git
+    git clone git@github.com:harvardinformatics/srivastava.git
 
 ### From the root of the project run the conversion with the specified theme:
 
-    cd earthquake.rc 
+    cd srivastava
     pelican content -t `pwd`/theme -o output
 
 ### Then go to the output directory and start the server

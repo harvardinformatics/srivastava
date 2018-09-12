@@ -8,9 +8,9 @@ from dateutil.tz import tzlocal
 PLUGIN_PATHS = []
 PLUGINS = []
 
-AUTHOR = u'Brendan Meade'
-SITENAME = u'Earthquake.rc'
-SITEURL = 'http://earthquake.rc.fas.harvard.edu'
+AUTHOR = u'Andrew Gehrke'
+SITENAME = u'srivastavalab'
+SITEURL = 'http://srivastavalab.rc.fas.harvard.edu'
 BANNER = True
 BANNER_ALL_PAGES = False
 DISPLAY_PAGES_ON_MENU = True
