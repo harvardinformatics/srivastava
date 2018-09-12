@@ -1,4 +1,4 @@
-## earthquake.rc website
+## Srivastava lab website
 
 
 ### Install pelican and markdown (python 2.7 required)
